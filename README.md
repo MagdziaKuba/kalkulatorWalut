@@ -1,0 +1,2 @@
+# kalkulatorWalut
+przeliczanie walut
